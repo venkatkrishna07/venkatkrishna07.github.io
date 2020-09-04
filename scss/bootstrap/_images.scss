@@ -7,6 +7,9 @@
 // See also https://github.com/twbs/bootstrap/issues/18178
 .img-fluid {
   @include img-fluid;
+  border-radius: 250px;
+  border: 4px solid white;
+
 }
 
 
