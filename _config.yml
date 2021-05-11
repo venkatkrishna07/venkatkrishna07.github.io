@@ -1,0 +1,14 @@
+title: Portfolio by Venkatakrishna S
+email: krishna.rayasam07@gmail.com
+baseurl: ""
+url: "https://venkatkrishna07.github.io"
+github_username:  venkatkrishna07
+
+# Build settings
+markdown: kramdown
+
+include: [".well-known"]
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
