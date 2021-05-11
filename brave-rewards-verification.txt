@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: venkatkrishna07.github.io
+Token: 8dc12492fa05a18a6df8dc141a4ec581e4bca26d1ec5be61c435e6e5b276cb6f
